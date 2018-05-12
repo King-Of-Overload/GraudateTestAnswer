@@ -6,8 +6,4 @@
 \pard\pardeftab720
 
 \f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-git init\
-git add README.md\
-git commit -m "first commit"\
-git remote add origin https://github.com/King-Of-Overload/GraudateTestAnswer.git\
-git push -u origin master}
+C Graduate Test Answers}
